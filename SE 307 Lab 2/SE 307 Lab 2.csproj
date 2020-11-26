@@ -47,13 +47,12 @@
         <Compile Include="Question 3\Position.cs" />
         <Compile Include="Question 3\PositionTest.cs" />
         <Compile Include="Question 4\Car.cs" />
+        <Compile Include="Question 5\CheckingBankAccount.cs" />
+        <Compile Include="Question 5\CheckingBankAccountTest.cs" />
         <Compile Include="Question 6\Employee.cs" />
         <Compile Include="Question 6\EmployeeTest.cs" />
         <Compile Include="Question 7\ActivityRoom.cs" />
         <Compile Include="Question 7\ActivityRoomTest.cs" />
-    </ItemGroup>
-    <ItemGroup>
-      <Folder Include="Question 5" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
